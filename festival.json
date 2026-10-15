@@ -1,0 +1,17 @@
+{
+    "version": "0.3.22",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Obedience-Corp/festival/releases/download/v0.3.22/festival-0.3.22-windows-x86_64.zip",
+            "bin": [
+                "fest.exe",
+                "festival.exe",
+                "camp.exe"
+            ],
+            "hash": "8b8a481e9c86a6b5952305c904e3664f7c25e832a62f40f5f53c112930fd2c03"
+        }
+    },
+    "homepage": "https://fest.build",
+    "license": "Apache-2.0",
+    "description": "Festival Methodology CLI suite (fest, camp, and festival) - AI-native project planning"
+}
