@@ -1,14 +1,14 @@
 {
-    "version": "0.3.37",
+    "version": "0.3.38",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Obedience-Corp/festival/releases/download/v0.3.37/festival-0.3.37-windows-x86_64.zip",
+            "url": "https://github.com/Obedience-Corp/festival/releases/download/v0.3.38/festival-0.3.38-windows-x86_64.zip",
             "bin": [
                 "fest.exe",
                 "festival.exe",
                 "camp.exe"
             ],
-            "hash": "8a1e83fa5b17cc5cdec3c7edd6300839c8e7872cf98c9ef4e957d96c8079dac9"
+            "hash": "3c7d72c768234af9b9a72c851869c35c084e58cd242b89d1dcb340429857acda"
         }
     },
     "homepage": "https://fest.build",
